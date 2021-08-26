@@ -1,7 +1,7 @@
 ## Exploratory Data Analysis - A Case Study
 ### Analyzing the Netflix Original Films & IMDB Scores Dataset
 
-A basic exploratory data analysis on Netflix original films using Python
+A basic exploratory data analysis on Netflix original films using Python as a part of the Jovian - Data Analysis with Python: Zero to Pandas course.
 
 The dataset has been downloaded from Kaggle: [Netflix Original Films & IMDB Scores](https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores)
 
